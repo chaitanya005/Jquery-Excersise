@@ -1,0 +1,29 @@
+
+
+body{
+    background-color:black;
+    color: #fff;
+}
+
+.center{
+    text-align: center;
+    padding: 30px;
+    font-size: 1.5rem;
+}
+
+
+
+.center button{
+    
+    padding: 15px;
+    font-size: 20px;
+    background-color:blue;
+    
+}
+
+.center button.head{
+    
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
